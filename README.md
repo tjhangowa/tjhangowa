@@ -6,4 +6,4 @@ I'm currently a Computer Science student at Queens College, passionate about bui
 - [Personal Website](https://tenzinjhangowa.me)
 
 😊 Hobbies
-- gym, cycling, hiking, cooking, gaming, and reading.
+- Gym, cycling, hiking, cooking, gaming, and reading.
