@@ -7,7 +7,7 @@ I'm currently a Computer Science student at Queens College, passionate about bui
 
 ## 🚩 Check out my work!
 - [Portfolio Website](https://tenzinjhangowa.me)
-- [Free TextBook PDF Finder](https://github.com/tjhangowa/textboofinder)
+- [Free TextBook PDF Finder](https://github.com/tjhangowa/textbookfinder-website)
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/tenzin-jhangowa-487ab3292)
