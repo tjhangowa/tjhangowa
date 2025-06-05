@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Tenzin!
 
-<!--
-**tjhangowa/tjhangowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer Science student at Queens College, passionate about building cool things with code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Skills
+- Java • C++ • Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚩 Check out my work!
+- [Portfolio Website](https://tenzinjhangowa.me)
+- [Free TextBook PDF Finder](https://github.com/tjhangowa/textboofinder)
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/tenzin-jhangowa-487ab3292)
+- [Personal Website](https://tenzinjhangowa.me)
+
+## 😊 Little About Me
+When I'm not coding, you'll find me at the gym, cycling, hiking, cooking something delicious, gaming, or getting lost in a good book.
+
+---
